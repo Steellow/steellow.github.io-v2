@@ -56,7 +56,7 @@ a:hover {
 
 i {
   /* Icons are from fontawesome.com */
-  margin-right: 3px;
+  margin-right: 0.5rem;
   color: var(--grey);
 }
 
