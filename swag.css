@@ -20,6 +20,10 @@ body {
   line-height: 1.5;
 }
 
+hr {
+  color: var(--lightGrey);
+}
+
 .topMargin {
   margin-top: 2.5rem;
 }
