@@ -1,10 +1,11 @@
 # hanki.dev
 
-Welcome
+Welcome!
 
 ## stuff
 
 - The projects folder is just to redirect old url to the main page
+- Inspiration from [mtsknn.fi](https://mtsknn.fi) and [joshuaraichur.com](https://joshuaraichur.com)
 
 ## todo
 
