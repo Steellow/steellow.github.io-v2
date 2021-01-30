@@ -58,6 +58,7 @@ i {
   /* Icons are from fontawesome.com */
   margin-right: 0.5rem;
   color: var(--grey);
+  opacity: 0.4;
 }
 
 /* Cards */
