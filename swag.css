@@ -11,7 +11,7 @@
 body {
   background-color: var(--white);
   /* Layout */
-  max-width: 30rem;
+  max-width: 40rem;
   margin: 0 auto !important;
   padding: 0 1rem 0 1rem;
   /* Font */
