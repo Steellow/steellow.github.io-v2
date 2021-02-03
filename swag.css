@@ -30,6 +30,7 @@ hr {
 
 ::selection {
   background: var(--lightRed); /* WebKit/Blink Browsers */
+  text-decoration-color: inherit; /* Chrome */
 }
 ::-moz-selection {
   background: var(--lightRed); /* Gecko Browsers */
