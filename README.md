@@ -1,6 +1,4 @@
-# hanki.dev
-
-Welcome!
+# [hanki.dev](https://hanki.dev)
 
 ## stuff
 
