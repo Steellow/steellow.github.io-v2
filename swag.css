@@ -32,6 +32,7 @@ hr {
   background: var(--lightRed); /* WebKit/Blink Browsers */
   text-decoration-color: inherit; /* Chrome */
 }
+
 ::-moz-selection {
   background: var(--lightRed); /* Gecko Browsers */
 }
@@ -67,9 +68,11 @@ i {
 }
 
 /* Cards */
+
 h3 {
   margin-bottom: 10px;
 }
+
 .card {
   border: 1px solid var(--lightGrey);
   padding: 0 1.5rem 0 1.5rem;
