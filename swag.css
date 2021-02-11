@@ -5,7 +5,8 @@
   --lightGrey: #d1d5db; /* Border */
   --grey: #364152; /* Text */
   --darkGrey: #1a202e; /* Link */
-  --blueGrey: #94a3b8; /* Timestamps */
+  --blueGrey: #94a3b8; /* Icon */
+  --lightBlue: #bae6fd; /* Timestamp */
 }
 
 body {
@@ -74,7 +75,7 @@ h3 {
 
 .timestamp {
   font-size: 0.75rem;
-  background-color: #dbeafe;
+  background-color: var(--lightBlue);
   padding: 0.2rem;
   border-radius: 5px;
   vertical-align: middle;
