@@ -1,11 +1,11 @@
 :root {
-  --white: #f8fafc;
-  --lightRed: #fed7d7;
-  --red: #f56565;
-  --lightGrey: #d1d5db;
-  --grey: #364152;
-  --darkGrey: #1a202e;
-  --blueGrey: #94a3b8;
+  --white: #f8fafc; /* Background */
+  --lightRed: #fed7d7; /* Selection */
+  --red: #f56565; /* Link underline */
+  --lightGrey: #d1d5db; /* Border */
+  --grey: #364152; /* Text */
+  --darkGrey: #1a202e; /* Link */
+  --blueGrey: #94a3b8; /* Timestamps */
 }
 
 body {
