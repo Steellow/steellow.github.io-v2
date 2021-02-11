@@ -6,6 +6,7 @@
   --lightGrey: #d1d5db;
   --grey: #364152;
   --darkGrey: #1a202e;
+  --blueGrey: #94a3b8;
 }
 
 body {
@@ -63,7 +64,7 @@ a:hover {
 i {
   /* Icons are from fontawesome.com */
   margin-right: 0.5rem;
-  color: #94a3b8;
+  color: var(--blueGrey);
 }
 
 /* Cards */
@@ -74,11 +75,12 @@ h3 {
 
 .timestamp {
   font-size: 0.75rem;
-  background-color: var(--lightRed);
+  background-color: #dbeafe;
   padding: 0.2rem;
   border-radius: 5px;
   vertical-align: middle;
   margin-left: 0.3rem;
+  font-weight: normal;
 }
 
 .card {
